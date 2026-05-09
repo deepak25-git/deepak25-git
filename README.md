@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Deepak Yadav</h1>
 
 <h3 align="center">
-ECE Student • VLSI Enthusiast • AI/ML • Computer Vision
+ECE Student • VLSI Enthusiast • AI/ML • Electronics
 </h3>
 
 <p align="center">
-Passionate about VLSI, AI-driven systems, Computer Vision, and intelligent hardware-software integration.
+Passionate about VLSI, AI-driven systems, Electronics, and intelligent hardware-software integration.
 </p>
 
 ---
@@ -26,10 +26,9 @@ const char* specialization =
 
 const char* interests[] = {
     "VLSI",
-    "Computer Vision",
+    "Electronics",
     "AI/ML",
     "Digital Design",
-    "SystemVerilog",
     "Embedded AI"
 };
 
@@ -103,6 +102,20 @@ Project projects[] = {
 
 ---
 
+# 📚 Libraries
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+</p>
+
+---
+
 # ⚡ Hardware & Platforms
 
 <p align="left">
@@ -139,31 +152,11 @@ Project projects[] = {
 
 <img src="https://img.shields.io/badge/Cadence-black?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepak25-git&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak25-git&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=deepak25-git&theme=tokyonight"/>
 
 </p>
 
@@ -176,16 +169,6 @@ Project projects[] = {
 <a href="https://www.linkedin.com/in/deepakyadavkalluri25">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-
-</p>
-
----
-
-# 📈 Profile Views
-
-<p align="left">
-
-<img src="https://komarev.com/ghpvc/?username=deepak25-git&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
 
